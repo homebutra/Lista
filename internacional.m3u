@@ -3,8 +3,11 @@
 #EXTINF:-1, CNNINTERNACIONAL
 https://cnn-cnninternational-1-gb.samsung.wurl.com:443/manifest/playlist_1280x720_3000k.m3u8
 
-#EXTINF:-1, CNNNEWS
-https://1176700211.rsc.cdn77.org/eaXG4qjn1hEevijltIgAFw==,1621739973/1176700211/index.m3u8
+#EXTINF:-1, NBC
+http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
+
+#EXTINF:-1, NBC Live
+https://spt7.teleuptv.net/4152c2b2-016e-4722-9fa3-6aa4c140cddc/index.m3u8
 #EXTINF:-1, usatoday
 https://dai2.xumo.com/xumocdn/p=/amagi_hls_data_xumo1212A-rokuusatodaynews/CDN/playlist.m3u8
 
