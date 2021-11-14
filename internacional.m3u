@@ -8,20 +8,21 @@ http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a8
 
 #EXTINF:-1, NBC Live
 https://spt7.teleuptv.net/4152c2b2-016e-4722-9fa3-6aa4c140cddc/index.m3u8
+
 #EXTINF:-1, usatoday
 https://dai2.xumo.com/xumocdn/p=/amagi_hls_data_xumo1212A-rokuusatodaynews/CDN/playlist.m3u8
 
+#EXTINF:-1, PBS
+https://pbs-samsunguk.amagi.tv:443/playlist720-p.m3u8
+
 #EXTINF:-1, RTen
-https://rt-usa.secure.footprint.net:443/1105_4500Kb.m3u8
+https://rt-usa.gcdn.co:443/live/rtusa/playlist_4500Kb.m3u8
 
 #EXTINF:-1, RTes
-https://rt-esp.secure.footprint.net:443/1102_2500Kb.m3u8
+https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
 
 #EXTINF:-1, CGTNen
 https://live.cgtn.com/1000/prog_index.m3u8
 
 #EXTINF:-1, CGTNes
 https://livees.cgtn.com/1000e/prog_index.m3u8
-
-#EXTINF:-1, PBS
-https://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/.m3u8
