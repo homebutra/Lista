@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1, CNNINTERNACIONAL
-https://cnn-cnninternational-1-gb.samsung.wurl.com:443/manifest/playlist_1280x720_3000k.m3u8
+https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
 
 #EXTINF:-1, NBC
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
