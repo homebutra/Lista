@@ -27,6 +27,7 @@ https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1, CGTNes
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
+#EXTINF:-341 tvg-logo="https://i.postimg.cc/VvM0k9wL/cbsn.png" group-title="NOTICIAS EN INGLÉS", CBSN
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
 
 #EXTINF:-341 tvg-logo="https://i.postimg.cc/MTvYkS4z/cbsn8.png" group-title="NOTICIAS EN INGLÉS", CBSN NEW YORK
