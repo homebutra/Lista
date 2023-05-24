@@ -60,4 +60,5 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb1b17aa5277e00083
 #EXTINF:-341 tvg-logo="https://i.postimg.cc/G2VH4wp3/cbsn4.png" group-title="NOTICIAS EN INGLÉS", CBSN DALLAS-FT.WORTH
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eceb0d4065c240007688ec6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8598c1-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cf85fb81-bf68-4e16-9fdc-0fa8cc32cefe&userId=&serverSideAds=true
 
-
+#EXTINF:-1 tvg-id="CNNInternationalUK.us" status="online",CNN International UK (720p) [No 24/7]
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
