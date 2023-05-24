@@ -61,4 +61,4 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb1b17aa5277e00083
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eceb0d4065c240007688ec6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8598c1-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cf85fb81-bf68-4e16-9fdc-0fa8cc32cefe&userId=&serverSideAds=true
 
 #EXTINF:-1, CNNnews
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv:443/206849c7acd1570962df1ad525fa8688.m3u8
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv:443/63831a0c85fb46b5bf3b9fbd35a2331b.m3u8
