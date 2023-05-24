@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1, CNNINTERNACIONAL
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=209&deviceId=5421f71da6af422839419cb3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1, CNN News
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv:443/63831a0c85fb46b5bf3b9fbd35a2331b.m3u8
 
 #EXTINF:-1, NBC
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
@@ -59,5 +59,4 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb1b17aa5277e00083
 
 #EXTINF:-1, CBSN DALLAS-FT.WORTH
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eceb0d4065c240007688ec6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8598c1-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cf85fb81-bf68-4e16-9fdc-0fa8cc32cefe&userId=&serverSideAds=true
-#EXTINF:-1, CNN News
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv:443/63831a0c85fb46b5bf3b9fbd35a2331b.m3u8
+
